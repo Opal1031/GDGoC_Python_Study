@@ -1,15 +1,17 @@
 str="aeiouAEIOU"
+
 while True:
     words=input()
+
     if words=="#":
         break
+
     count=0
     for i in words:
         if i in str:
             count+=1
-    print(count)
-    
 
+    print(count)
 
 # str="aeiou"
 # while True:
@@ -23,7 +25,6 @@ while True:
 #     print(count)
 
 
-
 # def count_vowels(string):
 #     str="aeiouAEIOU"
 #     count=0
@@ -32,9 +33,16 @@ while True:
 #             count+=1
 #     return count
 
+
 # while True:
 #     s=input()
 #     if s=="#":
 #         break
 #     print(count_vowels(s))
-    
+
+
+'''
+Comment:
+
+모음 리스트를 문자열로 표현하는 것이 더 간결합니다.
+'''
