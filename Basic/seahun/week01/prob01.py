@@ -9,8 +9,16 @@ Original file is located at
 
 A = int(input('첫 번째 숫자 : '))
 B = int(input('두 번째 숫자 : '))
+
 print(A + B)
 print(A - B)
 print(A * B)
 print(A // B)
 print(A % B)
+
+'''
+Comment:
+
+Good!
+코딩 테스트에서는 input()에 대한 안내 문구를 제거하는 것이 좋습니다.
+'''
