@@ -18,4 +18,3 @@ for _ in range(N):
 
     else:
         heapq.heappush(heap, x)
-        
