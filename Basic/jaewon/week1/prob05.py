@@ -17,3 +17,9 @@ score = {
 s = input("")
 
 print(score[s])
+
+'''
+Comment:
+
+Good!
+'''
