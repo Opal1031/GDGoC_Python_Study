@@ -16,14 +16,14 @@ for _ in range(N):
         _, num = cmd.split()
         stack.append(int(num))
 
-    elif cmd == 'pop':
+    elif (cmd == 'pop'):
         print(stack.pop() if stack else -1)
 
-    elif cmd == 'size':
+    elif (cmd == 'size'):
         print(len(stack))
 
-    elif cmd == 'empty':
+    elif (cmd == 'empty'):
         print(0 if stack else 1)
-        
-    elif cmd == 'top':
+
+    elif (cmd == 'top'):
         print(stack[-1] if stack else -1)
