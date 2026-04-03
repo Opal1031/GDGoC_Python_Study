@@ -1,7 +1,11 @@
+
+# BOJ 1264: 모음의 개수
+
 import sys
 input = sys.stdin.readline
-
 while True:
+
+
     try:
         line = input()
 
