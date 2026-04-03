@@ -9,7 +9,6 @@ while True:
             break
 
         a,b=map(int,line.split())
-
         print(a+b)
 
     except EOFError:

@@ -7,6 +7,7 @@ while True:
         if not line:
             break
         print(line,end='')
+        
     except:
         break
 
