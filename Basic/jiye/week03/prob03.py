@@ -3,7 +3,8 @@ def solution(array, n):
     return answer
 
 '''
-Good!
+Comment:
 
+Good!
 return에서 answer로 바로 반환해도 됩니다.
 '''
