@@ -6,6 +6,8 @@ def solution(n):
     return answer
 
 '''
+Comment:
+
 Good!
 
 리스트 컴프리헨션을 사용해서 더 간결하게 표현할 수 있습니다.
