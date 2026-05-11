@@ -6,5 +6,5 @@ def solution(array, n):
 Comment:
 
 Good!
-return에서 answer로 바로 반환해도 됩니다.
+answer을 따로 선언하지 않고 바로 return 해도 됩니다.
 '''
