@@ -9,3 +9,9 @@ def solution(citations):
             break
     
     return h_index
+
+'''
+Comment:
+
+조건식을 pp_count > citation으로 작성하면 else문을 생략 가능합니다.
+'''
