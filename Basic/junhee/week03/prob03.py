@@ -1,5 +1,5 @@
-def solution(arr):
-    answer = ''.join(arr)
+def solution(array, n):
+    answer=array.count(n)
     return answer
 
 '''
