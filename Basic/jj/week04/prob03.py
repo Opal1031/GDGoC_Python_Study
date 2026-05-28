@@ -16,3 +16,10 @@ def solution(citations):
         
             
     return answer
+
+'''
+Comment:
+
+Good!
+min()과 max() 함수를 잘 활용하였습니다.
+'''

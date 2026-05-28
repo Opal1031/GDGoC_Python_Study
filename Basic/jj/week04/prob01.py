@@ -5,3 +5,9 @@ def solution(array, commands):
         temp.sort()
         answer.append(temp[k-1])
     return answer
+
+'''
+Comment:
+
+Good!
+'''
