@@ -1,3 +1,3 @@
-def solution(arr:):
-    answer=''
+def solution(arr):
+    answer = ''
     return answer
