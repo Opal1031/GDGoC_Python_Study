@@ -6,7 +6,7 @@ input = sys.stdin.readline
 while True:
     S = input().rstrip()
     
-    if S == "#":
+    if (S == "#"):
         break
     
     count = 0
