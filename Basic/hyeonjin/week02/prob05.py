@@ -12,3 +12,9 @@ dic = {'A+':'4.3', 'A0':'4.0', 'A-':'3.7',
 grade = input().strip()
 
 print(dic[grade])
+
+'''
+Comment:
+
+Good!
+'''
