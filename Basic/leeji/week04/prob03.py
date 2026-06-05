@@ -14,3 +14,10 @@ def solution(citations):
         hi_index = pa_count
 
     return hi_index
+
+'''
+Comment:
+
+Good!
+내림차순 정렬 후 하나씩 비교하면서 H-Index를 구하는 흐름이 자연스럽습니다.
+'''
