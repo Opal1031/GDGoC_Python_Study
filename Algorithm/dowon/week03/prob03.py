@@ -9,3 +9,11 @@ def solution(s):
             answer.append(i-last[c])
         last[c]=i
     return answer
+
+'''
+Comment:
+
+Good!
+
+enumrate() 함수를 이용해서 인덱스와 문자를 동시에 가져오는 방법도 있습니다.
+'''

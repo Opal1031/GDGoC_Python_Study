@@ -15,3 +15,12 @@ def solution(sequence, k):
                 length=l
                 answer=[b,a]
     return answer
+
+'''
+Comment:
+
+Good!
+
+투 포인터(슬라이딩 윈도우)로 깔끔하게 해결했습니다.
+다만 변수명 `Sum`은 내장 함수 `sum`과 혼동될 수 있어 `total` 같은 이름을 쓰면 더 좋습니다.
+'''
